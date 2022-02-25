@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections upon that act of the Gloucester Common-Council which occasioned Dr. Fowler's printing his Discourse of offences : together with A short reply to the late scandalous queries offered to the Reverend Dean of Canterbury.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58378</idno>
+            <idno type="STC">Wing R724</idno>
+            <idno type="STC">ESTC R2255</idno>
+            <idno type="EEBO-CITATION">12265772</idno>
+            <idno type="OCLC">ocm 12265772</idno>
+            <idno type="VID">58066</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58066)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections upon that act of the Gloucester Common-Council which occasioned Dr. Fowler's printing his Discourse of offences : together with A short reply to the late scandalous queries offered to the Reverend Dean of Canterbury.</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Mortlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title: A short reply to the late scandalous queries offered to the Reverend Dean of Canterbury, p. 9-13.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tillotson, John, 1630-1694.</term>
+               <term>Fowler, Edward, 1632-1714.</term>
+               <term>Gloucester (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58066:1" rendition="simple:additions"/>
+            <p>REFLECTIONS UPON That ACT of the GLOUCESTER Common-Council: Which occaſioned Dr. FOWLER'S Printing his Diſcourſe of Offences. Together With a ſhort Reply to the Late Scandalous QUERIES offered to the Reverend Dean of <hi>Canterbury.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Mortlock</hi> at the <hi>Phoenix</hi> in St. <hi>Paul</hi>'s Church yard. 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:58066:2"/>
+            <pb n="1" facs="tcp:58066:2"/>
+            <head>REFLECTIONS Upon the ACT of the <hi>Glouceſter</hi> Common-Council, <hi>&amp;c.</hi>
+            </head>
+            <p>THere is nothing about which the world is more generally miſtaken, than in the falſe Notions it has of Greatneſs and Power. For thoſe commonly are eſteemed the moſt fortunate and mighty, that <hi>make their ſtrength the Law of Juſtice,</hi> that have Power to do miſchief, and cannot be called to an Account for it, and that by a boiſterous, irreſiſtible Fury dare to oppreſs others, without any fear of puniſhment in this world, or thoughts of it in the next. But this is a Greatneſs that more proper<g ref="char:EOLhyphen"/>ly belongs to Beaſts and Birds of prey than either to men or Chriſti<g ref="char:EOLhyphen"/>ans. If there be any truth in the Laws, or Attractives in the Exam<g ref="char:EOLhyphen"/>ple of our Bleſſed Lord and Saviour, thoſe ought to be eſteemed the only <hi>Heroick</hi> Spirits, who dare do their duty, though dangers attend it; who have that entire Command over their Inclinations, as not to be moved to any unchriſtian unſeemly paſſions, but with a Lamb-like meekneſs and patience can under the heavieſt oppreſſi<g ref="char:EOLhyphen"/>ons and provocations abſolutely yield and ſubmit themſelves to the
+<pb n="2" facs="tcp:58066:3"/>providence of the Almighty, <hi>who judges righteouſly, and tries the reins and the heart, Jer.</hi> 11.20. And finally, who can expreſs the moſt fervent charity to their bittereſt enemies, bleſſing thoſe that curſe them, obliging thoſe that revile them, and with the ſame ar<g ref="char:EOLhyphen"/>dent zeal praying for the Souls of their perſecutors, as they do for their own.</p>
+            <p>'Tis to be hoped that theſe <hi>Glouceſter</hi> Gentlemen, whatever paſ<g ref="char:EOLhyphen"/>ſions have of late clouded their Judgments, and like a falſe Optick repreſented thoſe objects to be of the ſame colour, as the Glaſs which they looked through, yet time has not confirmed, but leſſen<g ref="char:EOLhyphen"/>ed and allayed their enmity againſt the Reverend Author of the Sermons <hi>concerning Offences,</hi> (who I aſſure you is neither the Author, Procurer or Publiſher of this Paper;) and now the heat of their Anger is ſomewhat abated and the dog days are ended, they will with ſome cool and ſedate thoughts reflect upon the <hi>Order</hi> made by them <hi>Aug.</hi> 20. 1683. wherein they charged Dr <hi>Fowler</hi> in his Sermons, to countenance Sedition and Faction, and to Preach things that tended to the diſturbance of well affected men in their City; and therefore whenever he Preached at the Cathedral Church, none of them would go thither with the Sword in their Formalities to hear him, but to ſome other Church in the City to hear a Loyal Orthodox Divine, who was to be paid at the City Charges.</p>
+            <p>This Charge differs no more from what was imputed to Chriſt and his Apoſtles, than the late <hi>Aſſociation</hi> does from the <hi>Solemn League and Covenant.</hi> For our Bleſſed Saviour was repreſented as an enemy unto <hi>Caeſar, John.</hi> 19.12. And his Apoſtles after him, as <hi>peſtilent Fellows, movers of Sedition,</hi> and ſuch as <hi>turned the world upſide down,</hi> for preaching down the <hi>Jewiſh</hi> and <hi>Pagan</hi> Idolatry and Superſtition, juſt as Dr. <hi>Fowler Countenances Sedition and Faction</hi> by preaching down that which is <hi>Popiſh</hi> and <hi>Anti-Chriſtian.</hi>
+            </p>
+            <p>But is it ſo in very deed, that the 35 year of King <hi>Charles</hi> the ſecond is to evacuate the Law that was made in the 25 of his Reign? Then the wiſdom of his Majeſty with the advice of his great <hi>Council</hi> of <hi>Parliament,</hi> for <hi>preventing dangers which might happen from
+<pb n="3" facs="tcp:58066:3"/>Popiſh Recuſants,</hi> made a Law that all Mayors, Aldermen, Sheriffs, Common-Council-Men, <hi>&amp;c.</hi> were to undergo a <hi>Teſt;</hi> wherein they were to <hi>declare</hi> their <hi>Belief</hi> that <hi>there is not any Tranſubſtantiation in the Lords Supper, in the Elements of Bread and Wine, at, or after the Conſecration thereof</hi> — And are <hi>Romiſh</hi> Emiſſaries leſs active and dangerous now, than they were ten years that are paſt? Had the <hi>Papiſts</hi> ever ſuch advantage againſt us ſince the <hi>Reformation,</hi> as is now given them in the late Conſpiracy by our Sectaries and Democratical Male-contents, who Stile themſelves <hi>Proteſtants,</hi> though they are as far from being ſo, as the Apoſtate Spirits from being Angels of Light? Why then muſt that Clergy Man be voted <hi>Factious</hi> and <hi>Seditious,</hi> whoſe Sermons are no other than a Confir<g ref="char:EOLhyphen"/>mation of the Truth of your Oaths, and who delivers no other Doctrine from the Pulpit, than what is ſolemnly ſworn by you in your Court? How ſhall dangers be prevented that may happen from <hi>Popiſh Recuſants,</hi> if Miniſters are trecherous to the Souls of the people, and forbear to fore-warn and antidote them againſt the pernicious Doctrins of the <hi>Roman</hi> Church? What will become of our Book of <hi>Homilies</hi> and <hi>Liturgy,</hi> if we muſt undergo ſuch heavy Cenſures for preaching againſt the rebellious and novel principles of Papiſts? According to your vote, they muſt both of them be diſuſed in Churches; For all the <hi>Hay</hi> and <hi>Stubble,</hi> Errors and Su<g ref="char:EOLhyphen"/>perſtitions that make up the <hi>Roman</hi> Religion, are diſplayed and confuted in thoſe two venerable Volumes. For ſhame then, diſown your prejudices, and rectify your miſtakes. What your paſſions moved you to Enact, let your more ſedate Judgments incite you (if not to abrogate, yet) to ſuppreſs. Do not by continuing in ſo ſtrange an indiſcretion, make your want of Charity to be as apparent as your want of Knowledge.</p>
+            <p>But to come unto a more cloſe arguing; The matter of your <hi>Order</hi> (which ſome, if not moſt in the <hi>Common Council,</hi> were againſt the very minute it was made, as we are inform<g ref="char:EOLhyphen"/>ed in <hi>London</hi>) is either <hi>true</hi> or <hi>falſe;</hi> if <hi>falſe,</hi> you ought to re<g ref="char:EOLhyphen"/>tract and repent of it, and to make the Reverend man Repara<g ref="char:EOLhyphen"/>ion for the injury and diſgrace you deſigned againſt him. If <hi>true,</hi> the
+<pb n="4" facs="tcp:58066:4"/>Law is open, let Deputies be impleaded, and the offender proceed<g ref="char:EOLhyphen"/>ed againſt with the utmoſt rigour and Severity. He is now actually poſſeſſed of ſome hundred pounds <hi>per An.</hi> In Church-preferments; and the loſs of thoſe (which he ought to ſuffer, if your Accuſation be juſt) would prevent the trouble and charge of having ſome other <hi>Loyal, Orthodox Divine</hi> to preach before you, when he a ſcends the Pulpit of the Cathedral. Nay to ſend him a begging together with his Wife and Children would be a puniſhment ſo adequately propor<g ref="char:EOLhyphen"/>tioned to his ſuppoſed Crimes, that it might <hi>ſlake</hi> the rage of his moſt malicious enemies, and would infallibly incapacitate him for ever <hi>Preaching Sermons</hi> amongſt you that <hi>countenanced Sedition and Faction,</hi> neither would the <hi>well affected men of your City</hi> be any more diſturbed by his Harangues from the Pulpit. And you may be aſſured, that the main end that the <hi>Doctor</hi> propoſes to himſelf in the publication of his Sermons is not only to vindicate his own Innocency, but to furniſh your zeal with matter to make good your charge againſt him. And if you deſiſt from the proſecution of him, he and ſome others in the world will be apt to think, that either you are afraid and dare not, or miſtaken and cannot. For he can no more queſtion your want of will, than he does your want of prejudice againſt him.</p>
+            <p>It may be hoped, if you will have ſo much patience as to read over what he has offered you, with an attentive mind, though you may not be ſo juſt as to acknowledge, yet you will be ſo ingenuous as not to perſevere in your enmity againſt him. Whether you will peruſe or burn them, is not very much valued, we preſume, by the Compoſer of them. You may be aſſured, that he has a clearer Innocence, than to be hectored out of the performance of his duty. Thoſe are to be ſo uſed by you whoſe fears exceed their Integrity, and who for fear of loſing popular Applauſe dare not preach down popular or Popiſh Er<g ref="char:EOLhyphen"/>rors, eſpecially when the Pulpit is ſurrounded with Threats and dan<g ref="char:EOLhyphen"/>gers. If he could purchaſe his peace without betraying his truſt, no one would be more forward to court your Favour than your late ex<g ref="char:EOLhyphen"/>ploded Preacher. But he well knows, that he tranſgreſſed no limits of his duty, and has only <hi>made you his enemies by telling you</hi> imparti<g ref="char:EOLhyphen"/>ally
+<pb n="5" facs="tcp:58066:4"/>
+               <hi>the Truth;</hi> but 'tis not the firſt time, that an Innocent man has rendred himſelf obnoxious to the hard Cenſures of thoſe, who have but a Superficial knowledge concerning him. You may be aſſured that we in <hi>London</hi> entertain other opinions of him, than you do at <hi>Glouceſter:</hi> St. <hi>Paul</hi> himſelf had laid on him at <hi>Philippi</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>many Stripes;</hi> and yet at <hi>Melita</hi> he met with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>many honours, Acts.</hi> 16.23. <hi>Acts.</hi> 28.10. It ſeems the very <hi>Barbarians</hi> paid him a more venerable reſpect, than the poliſhed Citizens of <hi>Philippi.</hi> And there are too many in this licentious Age, who make it their very buſineſs and pleaſure to defame Clergy men, and that either out of deſign to expoſe their Profeſſion, or to vail and extenuate their own wickedneſs. Neither is it poſſible for the moſt unſpotted Reputation to contend with Numerous Adverſaries, <hi>whoſe tongues are their own,</hi> who acknowledg <hi>no Lord over them,</hi> and who are ſo habituated to calumnies, and Slanders, that (to uſe <hi>Lucians phraſe</hi>) they are ever and anon caſting out <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>whole Cart loads of Reproaches</hi> upon the good names of thoſe perſons, whoſe Doctrines or Lives are a Reproof to their vile<g ref="char:EOLhyphen"/>neſs and Immoralities.</p>
+            <p>But when 'tis well conſidered, it will appear that one great reaſon of the Intemperance of mens Tongues in aſſaulting their Neigh<g ref="char:EOLhyphen"/>bours names, will be found to be a pragmatical intermeddling in their Buſineſs. A Fault, very epidemical in ſome places; Where men ſtep out of their Spheres and Stations, and ſhoot their Bolts againſt their Governors in Church and State, as well as againſt men of a more retired condition, into whoſe concerns and Affairs, they have ſo ſmall a knowledge and inſight, that if they paſs a right ſen<g ref="char:EOLhyphen"/>tence either upon their actions or diſcourſes, 'tis (like the blind mans hitting of the mark) owing rather to their Stars, then to their under<g ref="char:EOLhyphen"/>ſtanding. And I verily believe (Gentlemen) that the publication of his Sermons is as plain a demonſtration of the Incompetency of Vulgar and Mechanick Minds to judge of Pulpit diſcourſes, as any thing that for ſome years paſt has been expoſed to publick view. The Fate it has already met with, has been ſo cruel and ſevere, that it has exceeded all the Rules of Reaſon, Charity and Civility. The
+<pb n="6" facs="tcp:58066:5"/>winds were ſo high and boiſterous, that no mid-way was admitted to ſuppreſs private hatreds, or ſilence publick clamours. Now it ſeems to be a Requeſt equal and juſt, that we who are part of the <hi>London</hi> Clergy may be admitted as able Judges of Theological Diſ<g ref="char:EOLhyphen"/>courſes from the Pulpit, as any of you in your ſeveral Callings, that live at <hi>Glouceſter.</hi> I do not know any <hi>Divine,</hi> tho never ſo <hi>Loyal and Orthodox,</hi> that undertakes to inſtruct Tradeſmen how to meaſure Tape, to make up pills, to brew Ale or Beer: Now the truth is, we Divines in <hi>London</hi> do verily believe, that Doctor <hi>Fowler</hi> is as able to make a Sermon, as any ſhop-Keeper is to ſell his goods; that it is as free from <hi>Faction</hi> and <hi>Sedition,</hi> as any Drapers beſt cloth in <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi> from Moths or rottenneſs. But who can help it, if there are Committees appointed for Religion at the <hi>Tolſey,</hi> as well as <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and that a new ſort of <hi>Triers</hi> are riſen up to paſs ſen<g ref="char:EOLhyphen"/>tence upon <hi>Divinity,</hi> as well as <hi>Divines?</hi> Believe it Gentle<g ref="char:EOLhyphen"/>men, we ſhall never have peace either in <hi>Charch</hi> or <hi>State,</hi> till men <hi>ſtudy to he quiet and to do their own Buſineſs,</hi> and avoid being <hi>Buſy bo<g ref="char:EOLhyphen"/>dies in other mens matters.</hi>
+            </p>
+            <p>If <hi>Edw. Fowler</hi> Dr. <hi>of Divinity</hi> wanted <hi>Compurgators,</hi> you ſhould have ſome hundreds to teſtify that they are fully ſatisfied he is as irreconcilable to Fanaticiſm, Strife and Contention, as he is to Popery or Debauchery. He truely abominates all things of theſe kinds. He knows alſo with what pathetick Arguments the Common Saviour of us all does conjure us to mutual Charity &amp; Love. He knows too how his Apoſtle after him does with the moſt importunate Eloquence depreſs Contention and ſtriſe, and make it to be a mark of a <hi>Carnal</hi> mind, quite inconſiſtent with the true Chriſtian Temper and Diſpo<g ref="char:EOLhyphen"/>ſition. Now pray conſider, whether the prejudice you have againſt the worthy <hi>Doctor,</hi> do not ariſe from falſe ſurmizes, and uncharita<g ref="char:EOLhyphen"/>ble miſconſtructions. It is not impoſſible but you may be miſtaken in his principles: Nay, 'tis certain you were ſo, when you voted him to <hi>countenance Faction &amp; Sedition.</hi> And jealouſy and ſuſpicion are the Bane of Friendſhip and Love. And therefore, be prevailed with to ſuppreſs your Cenſures, till you better underſtand his merits. For he is not the firſt perſon whoſe name has been traduced and ren<g ref="char:EOLhyphen"/>dered
+<pb n="7" facs="tcp:58066:5"/>infamous by wanton and petulant Tongues; and yet after<g ref="char:EOLhyphen"/>ward Providence has been pleaſed ſo to diſſipate all clouds of Calum<g ref="char:EOLhyphen"/>ny, as to <hi>bring forth his Righteouſneſs as the Light, and his Judgment as the Noon day.</hi> Pray alſo conſider well, what an infinite <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is to the Goſpel of peace, and to the Church of <hi>England,</hi> that the mi<g ref="char:EOLhyphen"/>niſters of Religion ſhould have the blackeſt characters fixed upon them, by thoſe that pretend friendſhip to the King and Church And therefore for Gods ſake, and for your own ſouls ſake, do not fortify your hearts againſt theſe propoſals of Peace &amp; Charity; do not create ſport and triumph for <hi>Gath</hi> and <hi>Aſkelon,</hi> viz. For <hi>Roman</hi> and <hi>Secta<g ref="char:EOLhyphen"/>rian</hi> Synagogues.</p>
+            <p>If this Advice be not embraced by you, I hope the good <hi>Doctor</hi> will receive the honour of your continued Enmity with a Joy pro<g ref="char:EOLhyphen"/>portioned to the vaſtneſs of its benefit. And perhaps one of the beſt, Teſtimonies that a virtuous perſon can have of Gods love, is, that wicked and prophane men hate him. Neither is the ſatisfaction in<g ref="char:EOLhyphen"/>conſiderable, when we owe the evils we ſuffer rather to other mens malice, than to our own guilts, and that we <hi>ſuffer not as evildoers, but as Chriſtians.</hi> This conſideration, will make us feel not only comfort, but ſecurity in mens caufleſs enmity. What Effect theſe perſuaſives may have upon you I know not; But though you ſhould go on in vilifying his perſon, undervaluing his labours, and aſſaulting his Re<g ref="char:EOLhyphen"/>putation, you will not fail, I dare promiſe for him, of the Doctors cha<g ref="char:EOLhyphen"/>rity, in pitying your miſtakes, and praying unto God that he would <hi>forgive his Enemies, Perſecutors and Slanderers,</hi> &amp; ſo <hi>turn their hearts</hi> in this world, that their Souls may be eternally ſaved in the next.</p>
+         </div>
+         <div type="reply">
+            <pb facs="tcp:58066:6"/>
+            <pb n="9" facs="tcp:58066:6"/>
+            <head>A Short Reply TO THE Late Scandalous QUERIES Offered to the Reverend Dean of <hi>Canterbury.</hi>
+            </head>
+            <head type="sub">This Impudent Libeller begins thus;</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>IN your Preface before Biſhop</hi> Wilkins <hi>Sermon, you recommend Mo<g ref="char:EOLhyphen"/>deration to the world as a great vertue; Wherefore</hi>
+            </p>
+            <p n="1">The 1ſt. Query <hi>is, Whether the greateſt Trimmer be the moſt vertuous man? And if ſo,</hi>
+            </p>
+            <p n="2">2dly, <hi>Whether the Dean of</hi> Canterbury <hi>be not the moſt vertuous man in the whole World?</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> That Moderation, which the Apoſtle would have <hi>known to all men,</hi> that has Integrity, Prudence, and Charity, for its conſtant
+<pb n="10" facs="tcp:58066:7"/>Ingredients, will never ſuffer in the opinion of any wiſe man, be<g ref="char:EOLhyphen"/>cauſe Fools give it a Nick-name; and I hope will gain further Reputation, by obſerving the brutiſh Rage wherewith ſuch Li<g ref="char:EOLhyphen"/>bellers as this oppoſe it, and what <hi>Poyſon of Aſps</hi> is under the Tongues of thoſe that traduce it.</p>
+            <p n="3">3d. Query. <hi>Whether a man born of Anabaptiſtical Parents, and who can be proved not to have been baptized at eight years of Age, can be ſuppoſed to be qualified to receive Orders of the Church of</hi> England, <hi>and to be made Dean of one of the moſt Eminent Sees there<g ref="char:EOLhyphen"/>of, who has nothing to recommend him, but his ſpewing up the Engage<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>His 10th <hi>Query</hi> may be joyned to this, being of the ſame ſtrain, in theſe words, <hi>Whether or no the ſaid Dean whom his Father call'd</hi> Jahnny, <hi>no otherwiſe than he nam'd Spaniel</hi> Tray, <hi>at eight years of Age, and cannot prove that he ever ſince had water thrown upon his Face, or the Sign of the Croſs made, may by vertue of his Orders, be judged a Chriſtian?</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> It is a Notorious Falſhood, that either of the Reverend Deans parents was Anabaptiſtical: and it's ſo far from being poſ<g ref="char:EOLhyphen"/>ſible to be true that he was not baptized at eight years of Age, that proof ſhall be made, if there be occaſion, that before he was three weeks old, he was publickly baptized in the Pariſh Church where he was born. (Which fully anſwers the 10th <hi>Query</hi> alſo:) and who but a Malicious Fool would have objected the taking of the Engagement by a meer Freſhman? (for ſuch he was vvhen it was impoſed on the Univerſity of <hi>Cambridge</hi>) though I know not that he ever took it, but am certain, if he did not then, he never took it.</p>
+            <p n="4">4th. Query. <hi>Whether ſuppoſing it can be proved that the ſaid Dean <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Preach expreſly againſt the Common Prayer in St.</hi> Marius <hi>Church in</hi> Cambridge, <hi>and that he has never ſince either
+<pb n="11" facs="tcp:58066:7"/>by word or deed contradicted that Sermon, he may not reaſonably be ſuſpected to be of the ſame Principle ſtill as he was at that time?</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I will engage on the Deans behalf, that all his Preſerments which this Libeller envies him, ſhall lye at <hi>his Mercy,</hi> though <hi>his Merits</hi> never entitled him to any, if he can prove, that the Dean, who never preached any Sermon in <hi>Cambridge</hi> in his whole Life, has preach'd in St. <hi>Maries</hi> there againſt the Common Prayer; nay further, if he can prove ſo much as his preaching againſt it any where elſe: but I can prove he had a great zeil for it at 20 years of Age, notwithſtanding the Prejudices of his Education.</p>
+            <p n="5">5th Query. <hi>Whether or no a man of his Conſtitution, who has run through ſo many Tryals, and is yet (alive) with a ſafe Conſcience, may not at laſt be hoped to dye a good Muſſelman?</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I ſhall only ſay, That this ſorry Creature has met with <hi>one Tryal</hi> (and he needs no more) to convince the World what Religion He's ambitious to dye in.</p>
+            <p n="6">6th. Query. <hi>Whether or no the ſaid Dean deſign'd the Intereſt of the Church of</hi> England, <hi>when he preached a turn for</hi> Julian <hi>the Apoſtate, to give him Leave to Anſwer Dr.</hi> H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks's Jovian?</p>
+            <p>
+               <hi>Reply.</hi> This Inſinuation, that the Deans preaching in <hi>Southampton Chappel</hi> was deſign'd to ſerve <hi>Julian</hi> in anſwering <hi>Jovian,</hi> is as falſe as ſpightful, and no leſs ſilly; for who can think that the obliging of one with whom he had <hi>no acquaintance,</hi> ſhould be his motive to give a Sermon to an <hi>old Acquaintance?</hi> And who can ſuſpect that Sermon to have done diſſervice to the Church of <hi>England,</hi> which found ſo good and great Acceptance when it was preached before the King?</p>
+            <p n="7">7th. Query. <hi>Whether or no it belongs to the Authority and Office of a Dean of the Church of</hi> England <hi>to vindicate every Traytor that appears guilty of High Treaſon?</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:58066:8"/>
+               <hi>Reply.</hi> I will ask <hi>him</hi> a Queſtion, which when he anſwers, he will anſwer <hi>himſelf, viz.</hi> Whether it be not the Duty of every Dean to obey all <hi>Sub-poena's</hi> of any of his Majeſties Courts of Juſtice; and what this <hi>Rev.</hi> Dean did more amiſs upon this occaſion, than ſeveral Noble Lords, and other worthy perſons did, who are equally reflected on in this Query?</p>
+            <p n="8">8th. Query. <hi>Whether or no the ſaid Dean did well, in defacing the Altar piece of his own Cathedral, for fear of offending tender Conſciences?</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I do not underſtand (to uſe thoſe words of the laſt Query) how it belongs to the office of a Dean to anſvver ſingly for Acts done by a whole Chapter: nor how making a thing more <hi>beautiful</hi> can be called <hi>defacing</hi> it; Nor laſtly, Why the Image of the <hi>Sun</hi> ſhould be contended for as the moſt proper Ornament for an <hi>Altar.</hi> But whatſoever others may do, I perceive thoſe that have <hi>no Conſcience,</hi> are but little concerned at offending <hi>tender Con<g ref="char:EOLhyphen"/>ſciences.</hi>
+            </p>
+            <p n="9">9th. Query. <hi>What Opinion we ought to have of this Dean, who at two Solemn Funerals preached the ſame Sermon; Firſt for a known Loyal Church of</hi> England <hi>man, and afterwards for a Fanatick Preacher?</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> There is no more conformable Church of <hi>England</hi> man, than Mr. <hi>Gouge</hi> was (whom he calls a Fanatick Preacher) as far as he was obliged to be ſo in a private capacity, and no man did ever declare a more hearty Abhorrence of <hi>Schiſm</hi> and <hi>Separation;</hi> nay this his <hi>Fanatick Preacher</hi> was a <hi>Licenſ'd Preacher,</hi> though he had no <hi>Cure;</hi> and few Perſons of more exemplary Piety and Chari<g ref="char:EOLhyphen"/>ty adorn'd the Age, than the man whom he brands with this <hi>odious Character.</hi> Mr. <hi>L'eſtrange</hi> in his <hi>Obſervator,</hi> publiſh'd ſome few days after his Death, beſtowed upon him a <hi>moſt honourable</hi> Cha<g ref="char:EOLhyphen"/>racter; and no man, but one of this Libeller's profligate Con<g ref="char:EOLhyphen"/>ſcience, would have thus impudently aſperſed his Memory.</p>
+            <p n="10">
+               <pb n="13" facs="tcp:58066:8"/>
+The 10th. <hi>Query</hi> was ſet down and accounted for before.</p>
+            <p n="11">11th. Query. <hi>Whether or no the ſaid Dean would not make a good Dean of</hi> Bray?</p>
+            <p>
+               <hi>Reply.</hi> Whether had not this <hi>Aſs</hi> better never have <hi>brayed</hi> againſt the good Dean?</p>
+            <p n="12">12th. Query. <hi>What Religion is to be underſtood by the Proteſtant Religion?</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> It is that Primitive Chriſtianity, which thou haſt neither <hi>wiſdom</hi> to underſtand, nor <hi>Grace</hi> to own.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <p>The Reader of this may be aſſured, that the Reverend Dean is wholly a ſtranger to this paper, and his pardon is begg'd for publiſhing it without his Knowledge.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
